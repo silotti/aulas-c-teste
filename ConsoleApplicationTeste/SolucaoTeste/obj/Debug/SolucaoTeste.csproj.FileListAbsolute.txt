@@ -1,0 +1,6 @@
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\bin\Debug\SolucaoTeste.exe.config
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\bin\Debug\SolucaoTeste.exe
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\bin\Debug\SolucaoTeste.pdb
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\obj\Debug\SolucaoTeste.csprojResolveAssemblyReference.cache
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\obj\Debug\SolucaoTeste.exe
+c:\users\1724451.educ\documents\visual studio 2015\Projects\ConsoleApplicationTeste\SolucaoTeste\obj\Debug\SolucaoTeste.pdb
